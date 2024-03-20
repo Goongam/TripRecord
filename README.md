@@ -17,7 +17,7 @@ IDE: vscode
 ## 🛠 기술 및 도구
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/recoil-3D3D3D?style=for-the-badge&logo=recoil&logoColor=white"><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 
-## 주요역할
+## 내가 기여한 부분
  - 여행 기록 목록 표시
  - 댓글 작성, 수정, 삭제
  - 글 수정
